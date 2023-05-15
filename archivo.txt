@@ -1,0 +1,40 @@
+Contexto
+Existen muchas fórmulas económicas que nos pueden ayudar en la
+vida diaria. Una de ellas, sin lugar a dudas, es el punto de equilibrio. El
+punto de equilibrio es definido como el cociente entre los costos fijos y
+la diferencia entre el precio de venta y costos variables. Expresado de
+forma matemática, queda así:
+
+Pe = CF / (PV – CV)
+
+El Punto de Equilibrio representa la cantidad de ventas que se deben
+concretar de un producto para no perder dinero. Supongamos que
+quiero desarrollar una computadora. Cada computadora la vendo a
+U$D 1.500, tiene unos costos variables de U$D 500 y los costos fijos
+son de U$D 10.000 mensuales. En ese escenario, debería vender 10
+unidades para no perder dinero con esa producción:
+
+Pe = CF / (PV – CV) = 10000 / (1500 – 500) = 10000 / 1000 = 10
+
+Alcance
+
+Tu trabajo será desarrollar una aplicación de consola en C# para
+calcular el punto de equilibrio.
+
+Requerimientos
+
+** Obligatorios
+o La aplicación debe solicitar correctamente el costo fijo,
+costo variable y precio de venta (+2)
+o La aplicación debe mostrar correctamente el resultado del
+punto de equilibrio (+2)
+
+** Opcionales
+o La aplicación debe empezar saludando al usuario con un
+mensaje de bienvenida (+1)
+o El código debe tener un comentario de bloque al inicio con
+una descripción del caso de uso (+1)
+o El código debe tener 3 comentarios de línea explicando
+algunas partes del código (+1)
+o El código usa solamente una variable para realizar el
+cálculo (+3)
